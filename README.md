@@ -3,6 +3,11 @@
 
 - 👨‍💻 All of my projects are available [here](https://github.com/MaxTarasenko?tab=repositories)
 - 👯 Looking for an internship or opportunity.
+---
+### Connect with me
+---
+| [<img src="https://github.com/MaxTarasenko/MaxTarasenko/blob/main/Assets/git.svg" alt="Github logo" width="34">](https://github.com/MaxTarasenko) | [<img src="https://github.com/MaxTarasenko/MaxTarasenko/blob/main/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com) | [<img src="https://github.com/MaxTarasenko/MaxTarasenko/blob/main/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/mr_merseri/) | [<img src="https://github.com/MaxTarasenko/MaxTarasenko/blob/main/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:max.tarasenko.slip@gmail.com)
+|:---:|:---:|:---:|:---:|
 
 <!--
 **MaxTarasenko/MaxTarasenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
