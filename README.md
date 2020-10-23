@@ -1,25 +1,25 @@
-### Hi there 👋, I'm [Max Tarasenko](https://github.com/MaxTarasenko). Welcome to my GitHub Profile 👨‍💻
----
+<h1 align="center"> 
+  <img src="https://github.com/MaxTarasenko/MaxTarasenko/blob/main/Assets/hello.gif" alt="hello-gif"> 
+  <br >
+  I'm <a href="https://github.com/MaxTarasenko">Max Tarasenko</a>. Welcome to my GitHub Profile 👨‍💻
+</h1>
 
-- 👨‍💻 All of my projects are available [here](https://github.com/MaxTarasenko?tab=repositories)
-- 👯 Looking for an internship or opportunity.
----
-### Connect with me
----
-| [<img src="https://github.com/MaxTarasenko/MaxTarasenko/blob/main/Assets/git.svg" alt="Github logo" width="34">](https://github.com/MaxTarasenko) | [<img src="https://github.com/MaxTarasenko/MaxTarasenko/blob/main/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com) | [<img src="https://github.com/MaxTarasenko/MaxTarasenko/blob/main/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/mr_merseri/) | [<img src="https://github.com/MaxTarasenko/MaxTarasenko/blob/main/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:max.tarasenko.slip@gmail.com)
-|:---:|:---:|:---:|:---:|
+<hr>
 
-<!--
-**MaxTarasenko/MaxTarasenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<ul>
+  <li>👨‍💻 All of my projects are available <a href="https://github.com/MaxTarasenko?tab=repositories">here</a>)</li>
+  <li>👯 Looking for an internship or opportunity
+</ul>
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Connect with me <img src="https://github.com/MaxTarasenko/MaxTarasenko/blob/main/Assets/Handshake.gif" height="32px"></h2>
+
+<hr>
+
+<table>
+  <td><a href="https://github.com/MaxTarasenko"><img src="https://github.com/MaxTarasenko/MaxTarasenko/blob/main/Assets/git.svg" alt="Github logo" width="34"></a></td>
+  <td><a href="https://in.linkedin.com"><img src="https://github.com/MaxTarasenko/MaxTarasenko/blob/main/Assets/Linkedin.svg" alt="Linkedin Logo" width="32"></a></td>
+  <td><a href="https://www.instagram.com/mr_merseri/"><img src="https://github.com/MaxTarasenko/MaxTarasenko/blob/main/Assets/Instagram.svg" alt="instagram logo" width="32"></a></td>
+  <td><a href="mailto:max.tarasenko.slip@gmail.com"><img src="https://github.com/MaxTarasenko/MaxTarasenko/blob/main/Assets/Gmail.svg" alt="Gmail logo" height="32"></a></td>
+</table>
