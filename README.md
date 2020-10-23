@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I'm [Max Tarasenko](https://github.com/MaxTarasenko). Welcome to my GitHub Profile 👨‍💻
+---
+
+- 👨‍💻 All of my projects are available [here](https://github.com/MaxTarasenko?tab=repositories)
+- 👯 Looking for an internship or opportunity.
 
 <!--
 **MaxTarasenko/MaxTarasenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
