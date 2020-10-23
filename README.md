@@ -9,7 +9,9 @@
   <li>👯 Looking for an internship or opportunity
 </ul>
 
-<hr>
+<p align="center"> <img src="https://github.com/MaxTarasenko/MaxTarasenko/blob/main/Assets/coder.gif" alt="codergif" /> </p>
+
+<hr height="1">
 
 <h2>Connect with me <img src="https://github.com/MaxTarasenko/MaxTarasenko/blob/main/Assets/Handshake.gif" height="32px"></h2>
 
