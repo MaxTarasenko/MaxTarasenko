@@ -4,18 +4,14 @@
   I'm <a href="https://github.com/MaxTarasenko">Max Tarasenko</a>. Welcome to my GitHub Profile 👨‍💻
 </h1>
 
-<hr>
-
 <ul>
-  <li>👨‍💻 All of my projects are available <a href="https://github.com/MaxTarasenko?tab=repositories">here</a>)</li>
+  <li>👨‍💻 All of my projects are available <a href="https://github.com/MaxTarasenko?tab=repositories">here</a></li>
   <li>👯 Looking for an internship or opportunity
 </ul>
 
 <hr>
 
 <h2>Connect with me <img src="https://github.com/MaxTarasenko/MaxTarasenko/blob/main/Assets/Handshake.gif" height="32px"></h2>
-
-<hr>
 
 <table>
   <td><a href="https://github.com/MaxTarasenko"><img src="https://github.com/MaxTarasenko/MaxTarasenko/blob/main/Assets/git.svg" alt="Github logo" width="34"></a></td>
