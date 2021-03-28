@@ -16,7 +16,7 @@
 
 <table>
   <td><a href="https://github.com/MaxTarasenko"><img src="https://github.com/MaxTarasenko/MaxTarasenko/blob/main/Assets/git.svg" alt="Github logo" width="34"></a></td>
-  <td><a href="https://in.linkedin.com"><img src="https://github.com/MaxTarasenko/MaxTarasenko/blob/main/Assets/Linkedin.svg" alt="Linkedin Logo" width="32"></a></td>
+  <!-- <td><a href="https://in.linkedin.com"><img src="https://github.com/MaxTarasenko/MaxTarasenko/blob/main/Assets/Linkedin.svg" alt="Linkedin Logo" width="32"></a></td>-->
   <td><a href="https://www.instagram.com/mr_merseri/"><img src="https://github.com/MaxTarasenko/MaxTarasenko/blob/main/Assets/Instagram.svg" alt="instagram logo" width="32"></a></td>
   <td><a href="mailto:max.tarasenko.slip@gmail.com"><img src="https://github.com/MaxTarasenko/MaxTarasenko/blob/main/Assets/Gmail.svg" alt="Gmail logo" height="32"></a></td>
 </table>
