@@ -6,7 +6,6 @@
 
 <ul>
   <li>👨‍💻 All of my projects are available <a href="https://github.com/MaxTarasenko?tab=repositories">here</a></li>
-  <li>👯 Looking for an internship or opportunity
 </ul>
 
 <p align="center"> <img src="https://github.com/MaxTarasenko/MaxTarasenko/blob/main/Assets/coder.gif" alt="codergif" /> </p>
